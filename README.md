@@ -15,7 +15,7 @@ Route /preview -> Interact with the currently built form like an end user
 
 Route /myforms -> View all previously saved forms from localStorage
 
-# **how to run :**
+# **How to run :**
 
 npm install react react-dom react-router-dom @mui/material @mui/icons-material @mui/x-date-pickers @reduxjs/toolkit react-redux react-beautiful-dnd date-fns uuid @emotion/react @emotion/styled @hello-pangea/dnd --legacy-peer-deps
 
