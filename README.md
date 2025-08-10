@@ -11,5 +11,7 @@ Users should be able to:
 Here is route and their description :
 
 Route /create	->  Build a new form by dynamically adding and configuring fields
+
 Route /preview -> Interact with the currently built form like an end user
+
 Route /myforms -> View all previously saved forms from localStorage
